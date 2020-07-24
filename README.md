@@ -1,3 +1,5 @@
+![Build and deploy to GitHub pages](https://github.com/kemokemo/nuxt-gh-pages/workflows/Build%20and%20deploy%20to%20GitHub%20pages/badge.svg)
+
 # nuxt-gh-pages
 
 This application is a sample for deploying to github pages using CI.
