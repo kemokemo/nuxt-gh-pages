@@ -1,5 +1,7 @@
 # nuxt-gh-pages
 
+This application is a sample for deploying to github pages using CI.
+
 ## Build Setup
 
 ```bash
